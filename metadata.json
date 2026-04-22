@@ -1,0 +1,6 @@
+{
+  "name": "SMK Prima Unggul Online",
+  "description": "Sistem Informasi Absensi dan Ujian Online SMK Prima Unggul dengan fitur manajemen user, absensi siswa/guru, dan ujian kompetensi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
